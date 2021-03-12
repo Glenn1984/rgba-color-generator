@@ -1,0 +1,28 @@
+header {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.colors {
+  margin: 10rem auto;
+}
+
+.list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  list-style-type: none;
+  padding: 0rem;
+}
+
+.color {
+  margin: 1rem auto;
+  width: 10rem;
+  height: 4rem;
+}
+/*# sourceMappingURL=style.css.map */
